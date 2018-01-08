@@ -1,2 +1,2 @@
-# nebulareum
-Nebulareum C++ abstract block-chain framework
+# nebuleum
+Nebuleum C++ abstract block-chain framework
